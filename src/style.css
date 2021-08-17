@@ -1,0 +1,11 @@
+.btn {
+  background-color: aqua;
+}
+
+.ordered-list {
+  text-align: center;
+}
+
+.ordered-list ul {
+  list-style-type: none
+}
